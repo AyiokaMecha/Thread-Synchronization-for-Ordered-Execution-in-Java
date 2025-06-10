@@ -28,7 +28,7 @@ This project demonstrates three different approaches to ensure ordered execution
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/thread-ordered-execution.git
+git clone [https://github.com/yourusername/thread-ordered-execution.git](https://github.com/AyiokaMecha/Thread-Synchronization-for-Ordered-Execution-in-Java.git)
 cd thread-ordered-execution
 ```
 
